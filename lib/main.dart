@@ -4,7 +4,6 @@ import 'package:get/get.dart';
 import 'package:http_get_use/core/constants/constants.dart';
 import 'package:http_get_use/core/service/todos_service.dart';
 import 'package:http_get_use/view/obx.dart';
-import 'package:http_get_use/view/todos_view.dart';
 
 void main() {
   // ignore: prefer_const_constructors
